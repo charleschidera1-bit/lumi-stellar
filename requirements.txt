@@ -1,0 +1,4 @@
+Flask
+stellar-sdk
+python-dotenv
+gunicorn
