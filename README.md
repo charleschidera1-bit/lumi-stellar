@@ -23,11 +23,11 @@ Stellar Project
        v
    Lumi SDK/API
        |
-       +---- Onboarding
+       + Onboarding
        |
-       +---- Fee Sponsorship
+       + Fee Sponsorship
        |
-       +---- Web3 Actions
+       + Web3 Actions
        |
        v
     Stellar Network
